@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "my trial in using script in pushing"
+	git push
