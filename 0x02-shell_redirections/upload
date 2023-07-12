@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "redoing rhe project"
+git commit -m "redoing"
 git push
